@@ -6,8 +6,6 @@
 # 💻 Tech Stack
 
 
-## 💻 Languages & Technologies
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,js&theme=light" />
   <br/>
